@@ -54,3 +54,9 @@ The Weather API key is configured in `.env`:
 ```dotenv
 API_WEATHER_KEY=your_real_api_key_here
 ```
+
+## Tests
+
+```bash
+php bin/phpunit
+```
