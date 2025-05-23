@@ -1,5 +1,14 @@
 # Lytvynov Tech Task
 
+## Home Page
+
+The application provides a weather dashboard that displays current weather information for three cities:
+- Cherkasy
+- Kyiv
+- Warsaw
+
+The dashboard is accessible at the root URL (`/`) and uses Tailwind CSS for styling.
+
 ## API Endpoints
 
 ### Get Weather Data
